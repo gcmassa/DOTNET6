@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\bin\Debug\net9.0\EstruturaDeRepeticao.exe
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\bin\Debug\net9.0\EstruturaDeRepeticao.deps.json
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\bin\Debug\net9.0\EstruturaDeRepeticao.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\bin\Debug\net9.0\EstruturaDeRepeticao.dll
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\bin\Debug\net9.0\EstruturaDeRepeticao.pdb
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\EstruturaDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\EstruturaDeRepeticao.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\EstruturaDeRepeticao.dll
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\refint\EstruturaDeRepeticao.dll
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\EstruturaDeRepeticao.pdb
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\EstruturaDeRepeticao.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DOTNET6\EstruturaDeRepeticao\obj\Debug\net9.0\ref\EstruturaDeRepeticao.dll
