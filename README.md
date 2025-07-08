@@ -20,15 +20,15 @@ Este código é um estudo prático sobre estruturas de repetição em C#, inclui
 ## 🔁 2. Estrutura de Repetição `for`
 
 ```csharp
-//int numero = 5;
+int numero = 5;
 
-//Console.WriteLine($"{numero} X 1 = {numero * 1}");
-/*
+Console.WriteLine($"{numero} X 1 = {numero * 1}");
+
 for (int contador = 0; contador <= 10; contador++)
 {
     Console.WriteLine($"{numero} X {contador} = {numero * contador}");
 }
-*/
+
 ```
 
 - Define um número fixo (`numero = 5`) e imprime sua tabuada de 0 a 10.
@@ -40,7 +40,7 @@ for (int contador = 0; contador <= 10; contador++)
 ## 🔄 3. Estrutura de Repetição `while`
 
 ```csharp
-/*
+
 int contador = 0;
 
 while (contador <= 10)
@@ -48,7 +48,7 @@ while (contador <= 10)
     Console.WriteLine($"{numero} X {contador} = {numero * contador}");
     contador++;
 }
-*/
+
 ```
 
 - Alternativa ao `for`, usando `while`.
@@ -60,7 +60,7 @@ while (contador <= 10)
 ## ⛔ 4. Interrupção com `break`
 
 ```csharp
-/*
+
 int contador = 1;
 
 while (contador <= 10)
@@ -72,7 +72,7 @@ while (contador <= 10)
         break;
     }
 }
-*/
+
 ```
 
 - Demonstra o uso do `break` para interromper o loop antes do fim natural.
@@ -83,7 +83,7 @@ while (contador <= 10)
 ## 🔂 5. Estrutura `do-while` com entrada do usuário
 
 ```csharp
-/*
+
 int soma = 0, numero = 0;
 
 do
@@ -95,7 +95,7 @@ do
     Console.WriteLine($"Total da soma dos números digitados é : {soma}");
 
 } while (numero != 0);
-*/
+
 ```
 
 - Usa `do-while` para garantir que o bloco seja executado ao menos uma vez.
